@@ -1,6 +1,6 @@
-#Churrasco
+# Churrasco
 
-###**Ingredientes**
+### **Ingredientes**
 
  - 2 Kg de Carne
  - Sal grosso
