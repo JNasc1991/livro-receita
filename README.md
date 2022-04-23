@@ -2,4 +2,5 @@
 Olá! Bem vindo ao nosso livro de receitas.
 
  - Churrasco
-  - batata
+ - Batata
+ - Galeto
